@@ -18,7 +18,7 @@
     },
     "plex": {
       "overseerr-side-menu": "https://themes.dougmelvin.me/css/addons/plex/overseerr-side-menu/overseerr-side-menu.css?sha=b14fcec4d4226f766e3f3931b073b4b45ea416ff",
-      "plex-alt-logo": "https://themes.dougmelvin.me/css/addons/plex/plex-alt-logo/plex-alt-logo.css?sha=38fdfb69ce59b36f3aab4acd7236277784c1836c"
+      "plex-alt-logo": "https://themes.dougmelvin.me/css/addons/plex/plex-alt-logo/plex-alt-logo.css?sha=a7f9dfd49b308cd1844ed48bf9d59e7d37fe0cf3"
     },
     "prowlarr": {
       "prowlarr-darker": "https://themes.dougmelvin.me/css/addons/prowlarr/prowlarr-darker/prowlarr-darker.css?sha=b84c55b85b8396a03cb63e7b6e7deff7a1cfd037"
@@ -305,7 +305,7 @@
     "plex": {
       "addons": {
         "overseerr-side-menu": "https://themes.dougmelvin.me/css/addons/plex/overseerr-side-menu/overseerr-side-menu.css?sha=b14fcec4d4226f766e3f3931b073b4b45ea416ff",
-        "plex-alt-logo": "https://themes.dougmelvin.me/css/addons/plex/plex-alt-logo/plex-alt-logo.css?sha=38fdfb69ce59b36f3aab4acd7236277784c1836c"
+        "plex-alt-logo": "https://themes.dougmelvin.me/css/addons/plex/plex-alt-logo/plex-alt-logo.css?sha=a7f9dfd49b308cd1844ed48bf9d59e7d37fe0cf3"
       },
       "base_css": "https://themes.dougmelvin.me/css/base/plex/plex-base.css?sha=54be0cd59c9e19928ac21ace477d3a24379835d6"
     },
