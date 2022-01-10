@@ -6,24 +6,24 @@
 
    --modal-bg-color: #4ABFAF; /* PES Body Color */
    --modal-header-color: #08635E; /* PES Fin Color */
-   --modal-footer-color: #80DDD4; /* PES Window Color */
+   --modal-footer-color: #80DDD4; /* PES Fin-Logo-Ship Color */
 
    --drop-down-menu-bg: #80DDD4; /* PES Fin-Logo-Ship Color */
 
    --button-color: #EFE7CC; /* PES Gasket Color */
-   --button-color-hover: #e59029;
+   --button-color-hover: #A09A88; /* PES Gasket Color +third darkness */
    --button-text: #333333; /* PES Bolt Color */
    --button-text-hover: #333333; /* PES Bolt Color */
 
-   --accent-color: 229, 160, 13;
-   --accent-color-hover: #ffc107;
-   --link-color: #C3E3F0;
-   --link-color-hover: #fff;
-   --label-text-color: #fff;
+   --accent-color: #B52B2A; /* PES Stripe Color */
+   --accent-color-hover: #791C1C; /* PES Stripe Color +third darkness */
+   --link-color: #C3E3EF;  /* PES Window Color */
+   --link-color-hover: #29AAE2; /* PES Light BG Color */
+   --label-text-color: #333333; /* PES Bolt Color */
 
    --text:#333333; /* PES Bolt Color */
    --text-hover: #333333; /* PES Bolt Color */
-   --text-muted: #999;
+   --text-muted: #555555; /* PES Bolt Color -third darkness */
 
     /*Specials*/
     --arr-queue-color: #27c24c; /* Servarr apps + Bazarr*/
