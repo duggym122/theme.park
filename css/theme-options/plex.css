@@ -34,6 +34,8 @@
    --text: #EFE7CC; /* PES Gasket Color, beige */
    --text-hover: #EFE7CC; /* PES Gasket Color, beige */
    --text-muted: #333333; /* PES Bolt Color */
+  
+   --tw-text-opacity: #EFE7CC; /* PES Gasket Color, beige */
 
     /*Specials*/
     --arr-queue-color: #27c24c; /* Servarr apps + Bazarr*/
