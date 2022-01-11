@@ -4,6 +4,8 @@
    */
    --main-bg-color: url("https://raw.githubusercontent.com/gilbN/theme.park/master/resources/blur-noise.png") repeat scroll 0% 0%, radial-gradient(circle, rgba(11,98,94,1) 0%, rgba(75,191,175,1) 100%), rgb(11,98,94) center center/cover no-repeat fixed;
 
+  /* #4ABFAF; /* PES Body Color */
+  
    --modal-bg-color: #4ABFAF; /* PES Body Color */
    --modal-header-color: #08635E; /* PES Fin Color */
    --modal-footer-color: #80DDD4; /* PES Fin-Logo-Ship Color */
