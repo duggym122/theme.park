@@ -22,8 +22,8 @@
 
    --button-color: #29AAE2; /* PES Light BG Color, robin's egg blue */
    --button-color-hover: #C3E3EF;  /* PES Window Color, sky blue */
-   --button-text: #EFE7CC; /* PES Gasket Color, beige */
-   --button-text-hover: #EFE7CC; /* PES Gasket Color, beige */
+   --button-text: #333333; /* PES Bolt Color, dark gray */
+   --button-text-hover: #333333; /* PES Bolt Color, dark gray */
 
    --accent-color: #B52B2A; /* PES Stripe Color */
    --accent-color-hover: #791C1C; /* PES Stripe Color +third darkness */
