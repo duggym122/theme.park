@@ -4,7 +4,15 @@
    */
    --main-bg-color: url("https://raw.githubusercontent.com/gilbN/theme.park/master/resources/blur-noise.png") repeat scroll 0% 0%, radial-gradient(circle, rgba(11,98,94,1) 0%, rgba(75,191,175,1) 100%), rgb(11,98,94) center center/cover no-repeat fixed;
 
-  /* #4ABFAF; /* PES Body Color */
+  /* #4ABFAF; /* PES Body Color, electric mucus */
+  /* #08635E; /* PES Fin Color, dark electric mucus */
+  /* #80DDD4; /* PES Fin-Logo-Ship Color, light electric mucus */
+  /* #333333; /* PES Bolt Color, dark gray */
+  /* #EFE7CC; /* PES Gasket Color, beige */
+  /* #B52B2A; /* PES Stripe Color, red */
+  /* #C3E3EF;  /* PES Window Color, sky blue */
+  /* #29AAE2; /* PES Light BG Color, robin's egg blue */
+  /* #0095C9; /* PES Dark BG Color, blue */
   
    --modal-bg-color: #4ABFAF; /* PES Body Color */
    --modal-header-color: #08635E; /* PES Fin Color */
@@ -12,10 +20,10 @@
 
    --drop-down-menu-bg: #80DDD4; /* PES Fin-Logo-Ship Color */
 
-   --button-color: #EFE7CC; /* PES Gasket Color */
-   --button-color-hover: #A09A88; /* PES Gasket Color +third darkness */
-   --button-text: #333333; /* PES Bolt Color */
-   --button-text-hover: #333333; /* PES Bolt Color */
+   --button-color: #29AAE2; /* PES Light BG Color, robin's egg blue */
+   --button-color-hover: #C3E3EF;  /* PES Window Color, sky blue */
+   --button-text: #EFE7CC; /* PES Gasket Color, beige */
+   --button-text-hover: #EFE7CC; /* PES Gasket Color, beige */
 
    --accent-color: #B52B2A; /* PES Stripe Color */
    --accent-color-hover: #791C1C; /* PES Stripe Color +third darkness */
@@ -23,9 +31,9 @@
    --link-color-hover: #29AAE2; /* PES Light BG Color */
    --label-text-color: #333333; /* PES Bolt Color */
 
-   --text:#333333; /* PES Bolt Color */
-   --text-hover: #333333; /* PES Bolt Color */
-   --text-muted: #555555; /* PES Bolt Color -third darkness */
+   --text: #EFE7CC; /* PES Gasket Color, beige */
+   --text-hover: #EFE7CC; /* PES Gasket Color, beige */
+   --text-muted: #333333; /* PES Bolt Color */
 
     /*Specials*/
     --arr-queue-color: #27c24c; /* Servarr apps + Bazarr*/
