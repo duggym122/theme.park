@@ -25,7 +25,7 @@
    --button-text: #333333; /* PES Bolt Color, dark gray */
    --button-text-hover: #333333; /* PES Bolt Color, dark gray */
 
-   --accent-color: #B52B2A; /* PES Stripe Color */
+   --accent-color: 181, 43, 42; /* PES Stripe Color */
    --accent-color-hover: #791C1C; /* PES Stripe Color +third darkness */
    --link-color: #C3E3EF;  /* PES Window Color */
    --link-color-hover: #29AAE2; /* PES Light BG Color */
