@@ -2,40 +2,28 @@
    /* --main-bg-color: url("https://raw.githubusercontent.com/gilbN/theme.park/master/resources/blur-noise.png"), url("https://raw.githubusercontent.com/gilbN/theme.park/master/resources/preset-light2.png") center center/cover no-repeat fixed;
      --modal-bg-color: url("https://raw.githubusercontent.com/gilbN/theme.park/master/resources/blur-noise.png"), url("https://raw.githubusercontent.com/gilbN/theme.park/master/resources/preset-dark2.png") center center/cover no-repeat fixed;
    */
-   --main-bg-color: url("https://raw.githubusercontent.com/gilbN/theme.park/master/resources/blur-noise.png") repeat scroll 0% 0%, radial-gradient(circle, rgba(11,98,94,1) 0%, rgba(75,191,175,1) 100%), rgb(11,98,94) center center/cover no-repeat fixed;
+   --main-bg-color: url("https://raw.githubusercontent.com/gilbN/theme.park/master/resources/blur-noise.png") repeat scroll 0% 0%, radial-gradient(circle at 0% 100%, rgba(54, 66, 84, 0.55) 0%, rgba(54, 66, 84, 0.043) 70%, rgba(54, 66, 84, 0) 80%), radial-gradient(circle at 100% 100%, rgba(113, 135, 153, 0.55) 0%, rgba(113, 135, 153, 0.043) 70%, rgba(113, 135, 153, 0) 80%), radial-gradient(circle at 100% 0%, rgba(54, 66, 84, 0.55) 0%, rgba(54, 66, 84, 0.043) 70%, rgba(54, 66, 84, 0) 80%), radial-gradient(circle at 0% 0%, rgba(91, 114, 135, 0.55) 0%, rgba(91, 114, 135, 0.043) 70%, rgba(91, 114, 135, 0) 80%), rgb(0, 0, 0) center center/cover no-repeat fixed;
 
-  /* #4ABFAF; /* PES Body Color, electric mucus */
-  /* #08635E; /* PES Fin Color, dark electric mucus */
-  /* #80DDD4; /* PES Fin-Logo-Ship Color, light electric mucus */
-  /* #333333; /* PES Bolt Color, dark gray */
-  /* #EFE7CC; /* PES Gasket Color, beige */
-  /* #B52B2A; /* PES Stripe Color, red */
-  /* #C3E3EF;  /* PES Window Color, sky blue */
-  /* #29AAE2; /* PES Light BG Color, robin's egg blue */
-  /* #0095C9; /* PES Dark BG Color, blue */
-  
-   --modal-bg-color: #4ABFAF; /* PES Body Color */
-   --modal-header-color: #08635E; /* PES Fin Color */
-   --modal-footer-color: #80DDD4; /* PES Fin-Logo-Ship Color */
+   --modal-bg-color: #1f2326;
+   --modal-header-color: #1f2326;
+   --modal-footer-color: #323232;
 
-   --drop-down-menu-bg: #80DDD4; /* PES Fin-Logo-Ship Color */
+   --drop-down-menu-bg: #191a1c;
 
-   --button-color: #29AAE2; /* PES Light BG Color, robin's egg blue */
-   --button-color-hover: #C3E3EF;  /* PES Window Color, sky blue */
-   --button-text: #333333; /* PES Bolt Color, dark gray */
-   --button-text-hover: #333333; /* PES Bolt Color, dark gray */
+   --button-color: #cc7b19;
+   --button-color-hover: #e59029;
+   --button-text: #eee;
+   --button-text-hover: #fff;
 
-   --accent-color: #B52B2A; /* PES Stripe Color */
-   --accent-color-hover: #791C1C; /* PES Stripe Color +third darkness */
-   --link-color: #C3E3EF;  /* PES Window Color */
-   --link-color-hover: #29AAE2; /* PES Light BG Color */
-   --label-text-color: #333333; /* PES Bolt Color */
+   --accent-color: 229, 160, 13;
+   --accent-color-hover: #ffc107;
+   --link-color: #e5a00d;
+   --link-color-hover: #fff;
+   --label-text-color: #fff;
 
-   --text: #EFE7CC; /* PES Gasket Color, beige */
-   --text-hover: #EFE7CC; /* PES Gasket Color, beige */
-   --text-muted: #333333; /* PES Bolt Color */
-  
-   --tw-text-opacity: #EFE7CC; /* PES Gasket Color, beige */
+   --text:#ddd;
+   --text-hover: #fff;
+   --text-muted: #999;
 
     /*Specials*/
     --arr-queue-color: #27c24c; /* Servarr apps + Bazarr*/
