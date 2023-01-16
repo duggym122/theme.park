@@ -6,3 +6,7 @@
     margin: 0 10px;
     width: 45px;
 }
+
+[class*="NavBar-plexLogo-"] svg {
+    display: none;
+}
