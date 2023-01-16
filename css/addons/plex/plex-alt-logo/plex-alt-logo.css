@@ -1,10 +1,10 @@
 [class*="NavBar-plexLogo-"] {
-    background-image: url("/css/addons/plex/plex-alt-logo/SeekPng.com_your-logo-here-png_2467553.png");
+    background-image: url("http://themes.dougmelvin.me/css/addons/plex/plex-alt-logo/Doug_Head_Round_Logo_Solid_Background_Compressed.png");
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: contain;
     margin: 0 10px;
-    width: 40px;
+    width: 45px;
 }
 
 [class*="NavBar-plexLogo-"] svg {
