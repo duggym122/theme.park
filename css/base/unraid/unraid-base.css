@@ -13,6 +13,10 @@
 @import url("/css/defaults/placeholders.css");
 @import url("/css/defaults/transparent.css");
 
+:root {
+    --inverse-text-color: var(--text);
+}
+
 * {
     outline: none;
 }
@@ -140,6 +144,10 @@ textarea {
     background: var(--transparency-dark-25);
 }
 
+textarea:focus {
+    background: var(--transparency-dark-35);
+}
+
 /*DASHBOARD*/
 table.share_status.dashboard {
     background: var(--transparency-dark-15);
@@ -201,7 +209,7 @@ table.tablesorter thead tr th {
 }
 
 table {
-    background: var(--transparency-dark-25);
+    background: var(--transparency-dark-25) !important;
 }
 
 table.disk_status thead tr:first-child td,
@@ -234,6 +242,18 @@ table tbody tr.tr_last {
 table.share_status tbody tr.warn {
     color: #e68a00 !important;
     background-color: #feefb3 !important;
+}
+
+table td.stopgap {
+    display: none;
+}
+
+table.dashboard i.fa {
+    background-color: unset;
+}
+
+table.dashboard tbody {
+    border: var(--transparency-light-25) 1px solid;
 }
 
 /*BUTTON*/
@@ -365,6 +385,10 @@ iframe {
 
 div.Panel i.PanelIcon {
     color: var(--text-hover);
+}
+
+.content #title {
+    background: unset;
 }
 
 /* PLUGINS */
